@@ -1,0 +1,19 @@
+# Python
+*.py[cod]
+__pycache__/
+venv/
+
+# Data & models
+/data/raw/
+/data/processed/
+/data/vector_db/
+/.temp_*
+*.sqlite3
+
+# Logs
+/logs/
+/*.log
+
+# OS
+.DS_Store
+Thumbs.db

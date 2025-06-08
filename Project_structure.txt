@@ -1,0 +1,36 @@
+code_of_building_gpt/
+│
+├── setup_windows.bat              # Windows setup script
+├── run_app.bat                    # Script to run the application
+├── requirements.txt               # Python dependencies
+├── .env                          # Environment variables
+├── .gitignore                    # Git ignore file
+│
+├── config/
+│   └── settings.py               # Configuration management
+│
+├── src/
+│   ├── __init__.py
+│   ├── ocr/
+│   │   ├── __init__.py
+│   │   └── document_processor.py  # OCR processing
+│   ├── rag/
+│   │   ├── __init__.py
+│   │   ├── retrieval_system.py    # Vector database & retrieval
+│   │   └── llm_interface.py       # Local LLM integration
+│   └── ui/
+│       ├── __init__.py
+│       └── streamlit_app.py       # Main application
+│
+├── data/
+│   ├── raw/                      # Original documents
+│   ├── processed/                # Processed documents
+│   └── vector_db/                # Vector database storage
+│
+├── tests/
+│   ├── __init__.py
+│   └── test_system.py            # Test suite
+│
+├── logs/                         # Application logs
+│
+└── temp/                         # Temporary file storage
