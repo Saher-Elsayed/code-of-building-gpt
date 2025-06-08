@@ -24,6 +24,7 @@ An **AI-powered building-code assistant** that lets you OCR your PDF code docume
 ---
 
  **🖥️ System Requirements (Windows) **
+ 
 Python 3.8+ installed and on your PATH
 
 Ollama 0.9+
