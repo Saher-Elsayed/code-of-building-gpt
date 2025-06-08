@@ -101,9 +101,7 @@ cd code-of-building-gpt
 
 
 📂 Project Structure
-bash
-Copy
-Edit
+
 code-of-building-gpt/
 ├── .env                # Your environment variables
 ├── .env.example        # Template for .env
