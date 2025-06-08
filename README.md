@@ -95,7 +95,7 @@ http://localhost:8501
 
 ### 1. Clone & Enter Repo
 ```bash
-git clone https://github.com/<your-username>/code-of-building-gpt.git
+git clone https://github.com/Saher-Elsayed/code-of-building-gpt.git
 cd code-of-building-gpt
 
 
