@@ -34,10 +34,12 @@ Verify with:
 ollama --version
 
 Tesseract OCR (UB Mannheim build)
+
 Download installer from https://github.com/UB-Mannheim/tesseract/wiki
 Install to C:\Program Files\Tesseract-OCR (default)
 
 Poppler for Windows
+
 Download poppler-*-x86_64.zip from https://github.com/oschwartz10612/poppler-windows/releases
 Extract to C:\tools\poppler so you have C:\tools\poppler\Library\bin\pdfinfo.exe
 
