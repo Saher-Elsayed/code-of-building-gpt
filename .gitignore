@@ -17,3 +17,14 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+
+# MCP Integration
+/mcp/__pycache__/
+/revit_scripts/*.pyc
+/generated_scripts/temp_*
+/compliance_reports/temp_*
+mcp_config_local.json
+
+# Generated files
+*.generated.py
+*.auto.py

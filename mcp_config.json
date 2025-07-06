@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "building-code-revit": {
+      "command": "python",
+      "args": [
+        "mcp/mcp_server.py"
+      ],
+      "env": {
+        "PYTHONPATH": ".",
+        "OLLAMA_BASE_URL": "http://127.0.0.1:11434",
+        "LLM_MODEL": "llama2:7b"
+      }
+    }
+  }
+}

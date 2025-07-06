@@ -4,7 +4,7 @@ import os
 import sys
 import logging
 
-# — Console logging setup —
+# Console logging setup
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s %(levelname)s %(message)s",
