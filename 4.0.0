@@ -1,0 +1,5 @@
+Requirement already satisfied: jsonschema in f:\code_of_building_gpt\venv\lib\site-packages (4.24.0)
+Requirement already satisfied: attrs>=22.2.0 in f:\code_of_building_gpt\venv\lib\site-packages (from jsonschema) (25.3.0)
+Requirement already satisfied: jsonschema-specifications>=2023.03.6 in f:\code_of_building_gpt\venv\lib\site-packages (from jsonschema) (2025.4.1)
+Requirement already satisfied: referencing>=0.28.4 in f:\code_of_building_gpt\venv\lib\site-packages (from jsonschema) (0.36.2)
+Requirement already satisfied: rpds-py>=0.7.1 in f:\code_of_building_gpt\venv\lib\site-packages (from jsonschema) (0.25.1)
